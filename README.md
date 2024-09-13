@@ -4,17 +4,17 @@ Welcome to my GitHub profile! I am a passionate software developer with a strong
 
 ## About Me
 
-I am dedicated to leveraging my skills in frontend and backend development to build impactful and innovative solutions. My expertise includes working with technologies like HTML, CSS, JavaScript, and various frameworks and libraries such as React, Node.js, and Tailwind CSS.
+I am dedicated to leveraging my skills in frontend and backend development to build impactful and innovative solutions. My expertise includes working with technologies like HTML, CSS, JavaScript, and various frameworks and libraries such as React, Next.js, Node.js, and Tailwind CSS.
 
 ## Key Projects
 
-### [PassOP](https://github.com/GouthamGopu/PassOP-localStorage)
-
-A React application for managing passwords with two versions: one using local storage and another with MongoDB and Express. It offers a secure way to handle and retrieve passwords.
-
 ### [GetMeChai](https://github.com/GouthamGopu/GetMeChai)
 
-A React-based project demonstrating CRUD operations with a focus on user authentication and dynamic content management.
+A Next.js-based application that leverages NextAuth for user authentication and profile management. Users can create and manage their profiles, with secure transactions facilitated through Razorpay integration, offering a smooth and interactive experience for handling personal information and payments.
+
+### [PassOP-localStorage](https://github.com/GouthamGopu/PassOP-localStorage)
+
+A  React application for managing passwords that uses local storage for data persistence. It provides a simple and secure way to store and retrieve passwords within the user's browser, without the need for a backend server.
 
 ### [Amazon](https://github.com/GouthamGopu/Amazon)
 
