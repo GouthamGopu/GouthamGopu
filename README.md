@@ -38,6 +38,6 @@ A static website representing a music player with a limited number of songs stor
 ## Contact
 
 - **Email**: [gopugoutham3@gmail.com](mailto:gopugoutham3@gmail.com)
-- **LinkedIn**: [Goutham Gopu]([https://www.linkedin.com/in/gouthamgopu/)
+- **LinkedIn**: [Goutham Gopu](https://www.linkedin.com/in/gouthamgopu/)
 
 Feel free to explore my repositories, and don’t hesitate to reach out if you have any questions or opportunities to collaborate. Thank you for visiting!
