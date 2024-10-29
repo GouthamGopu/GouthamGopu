@@ -16,13 +16,14 @@ An Instagram clone application built with React and Redux, featuring user authen
 
 A Next.js-based application that leverages NextAuth for user authentication and profile management. Users can create and manage their profiles, with secure transactions facilitated through Razorpay integration, offering a smooth and interactive experience for handling personal information and payments.
 
-### [PassOP-localStorage](https://github.com/GouthamGopu/PassOP-localStorage)
+## PassOP
 
-A  React application for managing passwords that uses local storage for data persistence. It provides a simple and secure way to store and retrieve passwords within the user's browser, without the need for a backend server.
+A React application for managing passwords with two versions based on different data persistence methods:
 
-### [PassOP-MongoDB](https://github.com/GouthamGopu/PassOP-MongoDB)
+- **PassOP-localStorage**: Uses local storage for data persistence, providing a simple and secure way to store and retrieve passwords within the user's browser, without the need for a backend server. [View on GitHub](https://github.com/GouthamGopu/PassOP-localStorage)
 
-A React application for managing passwords that uses MongoDB for data persistence, providing a secure and centralized way to store and retrieve passwords. This project offers basic password management functionality with a backend server, enhancing security and accessibility.
+- **PassOP-MongoDB**: Utilizes MongoDB for data persistence, offering a secure and centralized way to store and retrieve passwords. This version includes a backend server, enhancing security and accessibility. [View on GitHub](https://github.com/GouthamGopu/PassOP-MongoDB)
+
 
 ### [Amazon](https://github.com/GouthamGopu/Amazon)
 
