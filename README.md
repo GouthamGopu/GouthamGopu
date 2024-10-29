@@ -16,6 +16,10 @@ An Instagram clone application built with React and Redux, featuring user authen
 
 A Next.js-based application that leverages NextAuth for user authentication and profile management. Users can create and manage their profiles, with secure transactions facilitated through Razorpay integration, offering a smooth and interactive experience for handling personal information and payments.
 
+### [Amazon](https://github.com/GouthamGopu/Amazon)
+
+A e-commerce website clone built with HTML, CSS, and JavaScript. Features include a simulated shopping experience with functionalities like "Add to Cart" and tracking, mimicking the Amazon homepage's layout and user interactions.
+
 ### PassOP
 
 A React application for managing passwords with two versions based on different data persistence methods:
@@ -24,16 +28,10 @@ A React application for managing passwords with two versions based on different 
 
 - **PassOP-MongoDB**: Utilizes MongoDB for data persistence, offering a secure and centralized way to store and retrieve passwords. This version includes a backend server, enhancing security and accessibility. [View on GitHub](https://github.com/GouthamGopu/PassOP-MongoDB)
 
-
-### [Amazon](https://github.com/GouthamGopu/Amazon)
-
-A e-commerce website clone built with HTML, CSS, and JavaScript. Features include a simulated shopping experience with functionalities like "Add to Cart" and tracking, mimicking the Amazon homepage's layout and user interactions.
-
-
 ## Skills
 
 - **Frontend Technologies**: HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap
-- **Backend Technologies**: Node.js, Express, MongoDB
+- **Backend Technologies**: Node.js, Express
 - **Databases**: MongoDB, MySQL, Microsoft SQL Server
 - **Tools**: Git, Visual Studio Code, Eclipse
 
