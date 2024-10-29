@@ -16,7 +16,7 @@ An Instagram clone application built with React and Redux, featuring user authen
 
 A Next.js-based application that leverages NextAuth for user authentication and profile management. Users can create and manage their profiles, with secure transactions facilitated through Razorpay integration, offering a smooth and interactive experience for handling personal information and payments.
 
-## PassOP
+### PassOP
 
 A React application for managing passwords with two versions based on different data persistence methods:
 
