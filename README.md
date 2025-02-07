@@ -8,7 +8,7 @@ I am dedicated to leveraging my skills in frontend and backend development to bu
 
 ## Key Projects
 
-### [Instagram](https://github.com/GouthamGopu/Instagram)
+### [InstaVibe](https://github.com/GouthamGopu/InstaVibe)
 
 An Instagram clone application built with React and Redux, featuring user authentication, image uploading, and real-time feed updates. This project also includes a real-time chat functionality using Socket.io, allowing users to communicate instantly, making it an interactive social media experience.
 
