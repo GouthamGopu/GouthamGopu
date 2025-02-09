@@ -8,9 +8,13 @@ I am dedicated to leveraging my skills in frontend and backend development to bu
 
 ## Key Projects
 
+### [CoSolve](https://github.com/GouthamGopu/CoSolve)
+
+Developed as part of my first hackathon, built with React and Redux, featuring user authentication, image uploading. CoSolve is a platform designed to connect individuals facing similar challenges,enabling them to collaborate and solve their problems together
+
 ### [InstaVibe](https://github.com/GouthamGopu/InstaVibe)
 
-An Instagram clone application built with React and Redux, featuring user authentication, image uploading, and real-time feed updates. This project also includes a real-time chat functionality using Socket.io, allowing users to communicate instantly, making it an interactive social media experience.
+An InstaVibe application built with React and Redux, featuring user authentication, image uploading, and real-time feed updates. This project also includes a real-time chat functionality using Socket.io, allowing users to communicate instantly, making it an interactive social media experience.
 
 ### [GetMeChai](https://github.com/GouthamGopu/GetMeChai)
 
@@ -20,13 +24,6 @@ A Next.js-based application that leverages NextAuth for user authentication and 
 
 A e-commerce website clone built with HTML, CSS, and JavaScript. Features include a simulated shopping experience with functionalities like "Add to Cart" and tracking, mimicking the Amazon homepage's layout and user interactions.
 
-### PassOP
-
-A React application for managing passwords with two versions based on different data persistence methods:
-
-- **PassOP-localStorage**: Uses local storage for data persistence, providing a simple and secure way to store and retrieve passwords within the user's browser, without the need for a backend server. [View on GitHub](https://github.com/GouthamGopu/PassOP-localStorage)
-
-- **PassOP-MongoDB**: Utilizes MongoDB for data persistence, offering a secure and centralized way to store and retrieve passwords. This version includes a backend server, enhancing security and accessibility. [View on GitHub](https://github.com/GouthamGopu/PassOP-MongoDB)
 
 ## Skills
 
